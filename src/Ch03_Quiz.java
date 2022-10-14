@@ -29,6 +29,7 @@ public class Ch03_Quiz {
             }
         }
 
+
         System.out.println();
         System.out.println("문제6.");
 

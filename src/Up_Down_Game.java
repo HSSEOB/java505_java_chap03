@@ -39,8 +39,8 @@ public class Up_Down_Game {
                         break;
                     }else System.out.println("잘 못 입력하셨습니다.");
                 }
-            }
 
+            }
         }
     }
 }
